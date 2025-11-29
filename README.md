@@ -33,7 +33,7 @@ Serão criados os executáveis. Logo após utilizar o comando abaixo para ativar
 4. Para rodar o ambiente, primeiro abra o gRsim e depois de compilado e ativado os terminais, execute o código abaixo:
 
     ```bash
-    ros2 launch oxebots_bringup ssl.launch
+    ros2 launch oxebots_bringup ssl.launch.py
     ```
 
 5. Objetivo do projeto:
